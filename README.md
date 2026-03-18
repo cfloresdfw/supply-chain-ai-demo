@@ -228,6 +228,12 @@ Agent resolving inventory shortages and flagging manual intervention required:
 
 ---
 
+## System diagram:
+
+https://github.com/cfloresdfw/supply-chain-ai-demo/blob/main/system-diagram.png
+
+---
+
 ## Acceptance Criteria (from SCRUM-23)
 
 | # | Criterion | Status |
