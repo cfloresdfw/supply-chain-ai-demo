@@ -218,7 +218,11 @@ The agent always selects the **nearest hub** that can satisfy the required quant
 - **Connection status** badge with animated pulse indicator
 
 ## Screenshots system running
+Waiting for events:
+<img width="2059" height="1475" alt="supply-chain-control-tower-1" src="https://github.com/user-attachments/assets/28e5e59b-6e62-4c91-9058-9beb2aa19374" />
 
+
+Agent resolving inventory shortages and flagging manual intervention required:
 <img width="2067" height="1785" alt="supply-chain-control-tower-2" src="https://github.com/user-attachments/assets/55d83d16-8c95-4dec-9359-5438677ac7f2" />
 
 
