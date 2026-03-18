@@ -217,6 +217,11 @@ The agent always selects the **nearest hub** that can satisfy the required quant
 - **Live metrics** in the header — Active Signals, Agent Resolved, Human Required counts
 - **Connection status** badge with animated pulse indicator
 
+## Screenshots system running
+
+<img width="2067" height="1785" alt="supply-chain-control-tower-2" src="https://github.com/user-attachments/assets/55d83d16-8c95-4dec-9359-5438677ac7f2" />
+
+
 ---
 
 ## Acceptance Criteria (from SCRUM-23)
